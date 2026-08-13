@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-13T09:10:22.130Z",
+  "version": "20260813",
+  "statChanged": true,
+  "result": {
+    "total": 1118,
+    "updated": 1100,
+    "keptOld": 18,
+    "failed": 18,
+    "elapsedSec": "107.0",
+    "statOnly": true
+  }
+}
