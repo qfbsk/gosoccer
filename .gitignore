@@ -1,0 +1,7 @@
+# 本地运行时产生的临时/备份文件，不纳入版本库
+*.tmp
+*.bak
+node_modules/
+.DS_Store
+
+# 注意：players_raw.json / players_stat.js / meta.json 都是需要被 CI 提交的数据，不要忽略

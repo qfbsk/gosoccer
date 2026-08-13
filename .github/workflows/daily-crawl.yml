@@ -1,0 +1,48 @@
+name: 每日球员数据爬取
+
+on:
+  schedule:
+    # 北京时间每天 12:00（UTC+8）= UTC 04:00
+    - cron: "0 4 * * *"
+  # 允许在 Actions 页面手动触发，方便测试
+  workflow_dispatch: {}
+
+# 允许工作流把更新后的数据提交回仓库
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 爬取最新 stat 数据
+        run: node ci-crawl.js
+
+      - name: 提交并推送
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # players_stat.js：每日重写的最新统计
+          git add players_stat.js
+          # players_raw.json：缓存抓取进度（成功的新数据 / 失败标记）
+          git add players_raw.json
+          # meta.json：本次运行结果记录
+          git add meta.json
+          if git diff --staged --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore: 自动更新球员数据 $(TZ=Asia/Shanghai date +'%Y-%m-%d')"
+            git pull --rebase --autostash origin main || true
+            git push
+          fi
