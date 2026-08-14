@@ -38446,55 +38446,55 @@
       "stats": {
         "上场场次": {
           "value": 2,
-          "rank": 166
+          "rank": 168
         },
         "首发": {
           "value": 2,
-          "rank": 122
+          "rank": 128
         },
         "上场时间": {
           "value": 163,
-          "rank": 197
+          "rank": 200
         },
         "场均上场时间": {
           "value": 81.5,
-          "rank": 274
+          "rank": 204
         },
         "进球": {
           "value": 0,
-          "rank": 82
+          "rank": 90
         },
         "场均进球": {
           "value": 0,
-          "rank": 82
+          "rank": 90
         },
         "助攻": {
           "value": 0,
-          "rank": 63
+          "rank": 67
         },
         "场均助攻": {
           "value": 0,
-          "rank": 63
+          "rank": 67
         },
         "点球": {
           "value": 0,
-          "rank": 7
+          "rank": 9
         },
         "射门": {
           "value": 0,
-          "rank": 164
+          "rank": 176
         },
         "射正": {
           "value": 0,
-          "rank": 89
+          "rank": 100
         },
         "传球": {
           "value": 0,
-          "rank": 298
+          "rank": 302
         },
         "犯规": {
           "value": 0,
-          "rank": 172
+          "rank": 182
         },
         "红牌": {
           "value": 0,
@@ -38502,15 +38502,15 @@
         },
         "黄牌": {
           "value": 0,
-          "rank": 143
+          "rank": 149
         },
         "解围": {
           "value": 0,
-          "rank": 186
+          "rank": 189
         },
         "抢断": {
           "value": 0,
-          "rank": 184
+          "rank": 191
         },
         "两黄变红": {
           "value": 0,
@@ -38518,79 +38518,79 @@
         },
         "拦截": {
           "value": 0,
-          "rank": 140
+          "rank": 149
         },
         "有效阻挡": {
           "value": 0,
-          "rank": 71
+          "rank": 77
         },
         "越位": {
           "value": 0,
-          "rank": 33
+          "rank": 34
         },
         "被侵犯": {
           "value": 0,
-          "rank": 164
+          "rank": 175
         },
         "传球成功": {
           "value": 0,
-          "rank": 295
+          "rank": 299
         },
         "关键传球": {
           "value": 0,
-          "rank": 147
+          "rank": 158
         },
         "传中球": {
           "value": 0,
-          "rank": 153
+          "rank": 159
         },
         "传中球成功": {
           "value": 0,
-          "rank": 81
+          "rank": 83
         },
         "长传": {
           "value": 0,
-          "rank": 224
+          "rank": 233
         },
         "成功长传": {
           "value": 0,
-          "rank": 190
+          "rank": 200
         },
         "任意球": {
           "value": 0,
-          "rank": 164
+          "rank": 175
         },
         "任意球得分": {
           "value": 0,
-          "rank": 1
+          "rank": 2
         },
         "过人": {
           "value": 0,
-          "rank": 173
+          "rank": 179
         },
         "过人成功": {
           "value": 0,
-          "rank": 128
+          "rank": 139
         },
         "1对1拼抢": {
           "value": 0,
-          "rank": 278
+          "rank": 283
         },
         "1对1拼抢成功": {
           "value": 0,
-          "rank": 261
+          "rank": 267
         },
         "快攻": {
           "value": 0,
-          "rank": 30
+          "rank": 31
         },
         "快攻射门": {
           "value": 0,
-          "rank": 28
+          "rank": 29
         },
         "快攻进球": {
           "value": 0,
-          "rank": 4
+          "rank": 5
         },
         "击中门框": {
           "value": 0,
@@ -38598,11 +38598,11 @@
         },
         "丢失球权": {
           "value": 0,
-          "rank": 297
+          "rank": 302
         },
         "传球被断": {
           "value": 0,
-          "rank": 129
+          "rank": 143
         }
       }
     },
@@ -64124,166 +64124,7 @@
       "nick": "马苏亚库",
       "enName": "Arthur Masuaku",
       "stats": {
-        "上场场次": {
-          "value": 1,
-          "rank": 25
-        },
-        "首发": {
-          "value": 1,
-          "rank": 18
-        },
-        "上场时间": {
-          "value": 105,
-          "rank": 29
-        },
-        "场均上场时间": {
-          "value": 105,
-          "rank": 7
-        },
-        "进球": {
-          "value": 0,
-          "rank": 8
-        },
-        "场均进球": {
-          "value": 0,
-          "rank": 8
-        },
-        "助攻": {
-          "value": 0,
-          "rank": 4
-        },
-        "场均助攻": {
-          "value": 0,
-          "rank": 4
-        },
-        "点球": {
-          "value": 0,
-          "rank": 2
-        },
-        "射门": {
-          "value": 1,
-          "rank": 25
-        },
-        "射正": {
-          "value": 0,
-          "rank": 20
-        },
-        "传球": {
-          "value": 54,
-          "rank": 16
-        },
-        "犯规": {
-          "value": 1,
-          "rank": 37
-        },
-        "红牌": {
-          "value": 0,
-          "rank": 1
-        },
-        "黄牌": {
-          "value": 0,
-          "rank": 15
-        },
-        "解围": {
-          "value": 1,
-          "rank": 44
-        },
-        "抢断": {
-          "value": 3,
-          "rank": 11
-        },
-        "两黄变红": {
-          "value": 0,
-          "rank": 1
-        },
-        "拦截": {
-          "value": 1,
-          "rank": 11
-        },
-        "有效阻挡": {
-          "value": 0,
-          "rank": 15
-        },
-        "越位": {
-          "value": 0,
-          "rank": 9
-        },
-        "被侵犯": {
-          "value": 0,
-          "rank": 56
-        },
-        "传球成功": {
-          "value": 44,
-          "rank": 17
-        },
-        "关键传球": {
-          "value": 2,
-          "rank": 7
-        },
-        "传中球": {
-          "value": 4,
-          "rank": 10
-        },
-        "传中球成功": {
-          "value": 1,
-          "rank": 7
-        },
-        "长传": {
-          "value": 11,
-          "rank": 13
-        },
-        "成功长传": {
-          "value": 5,
-          "rank": 11
-        },
-        "任意球": {
-          "value": 0,
-          "rank": 56
-        },
-        "任意球得分": {
-          "value": 0,
-          "rank": 1
-        },
-        "过人": {
-          "value": 2,
-          "rank": 20
-        },
-        "过人成功": {
-          "value": 0,
-          "rank": 34
-        },
-        "1对1拼抢": {
-          "value": 10,
-          "rank": 35
-        },
-        "1对1拼抢成功": {
-          "value": 4,
-          "rank": 45
-        },
-        "快攻": {
-          "value": 0,
-          "rank": 5
-        },
-        "快攻射门": {
-          "value": 0,
-          "rank": 5
-        },
-        "快攻进球": {
-          "value": 0,
-          "rank": 1
-        },
-        "击中门框": {
-          "value": 0,
-          "rank": 4
-        },
-        "丢失球权": {
-          "value": 19,
-          "rank": 15
-        },
-        "传球被断": {
-          "value": 1,
-          "rank": 15
-        }
+        "__error": "stat不足(0)"
       }
     },
     {
@@ -92414,7 +92255,7 @@
         },
         "有效阻挡": {
           "value": 4,
-          "rank": 78
+          "rank": 77
         },
         "越位": {
           "value": 0,
@@ -92442,7 +92283,7 @@
         },
         "长传": {
           "value": 6,
-          "rank": 262
+          "rank": 263
         },
         "成功长传": {
           "value": 5,
@@ -92466,7 +92307,7 @@
         },
         "1对1拼抢": {
           "value": 114,
-          "rank": 63
+          "rank": 64
         },
         "1对1拼抢成功": {
           "value": 56,
@@ -92494,7 +92335,7 @@
         },
         "传球被断": {
           "value": 17,
-          "rank": 30
+          "rank": 29
         }
       }
     },
@@ -97310,164 +97151,164 @@
       "enName": "Brian Madjo",
       "stats": {
         "上场场次": {
-          "value": 5,
-          "rank": 434
+          "value": 1,
+          "rank": 1
         },
         "首发": {
-          "value": 2,
-          "rank": 412
+          "value": 1,
+          "rank": 1
         },
         "上场时间": {
-          "value": 157,
-          "rank": 441
+          "value": 72,
+          "rank": 20
         },
         "场均上场时间": {
-          "value": 31.4,
-          "rank": 428
+          "value": 72,
+          "rank": 20
         },
         "进球": {
-          "value": 0,
-          "rank": 266
+          "value": 1,
+          "rank": 1
         },
         "场均进球": {
-          "value": 0,
-          "rank": 218
+          "value": 1,
+          "rank": 1
         },
         "助攻": {
           "value": 0,
-          "rank": 250
+          "rank": 4
         },
         "场均助攻": {
           "value": 0,
-          "rank": 194
+          "rank": 4
         },
         "点球": {
           "value": 0,
-          "rank": 39
+          "rank": 1
         },
         "射门": {
-          "value": 3,
-          "rank": 371
+          "value": 6,
+          "rank": 1
         },
         "射正": {
           "value": 1,
-          "rank": 311
+          "rank": 2
         },
         "传球": {
-          "value": 18,
-          "rank": 490
+          "value": 14,
+          "rank": 23
         },
         "犯规": {
-          "value": 3,
-          "rank": 383
+          "value": 1,
+          "rank": 6
         },
         "红牌": {
           "value": 0,
-          "rank": 70
+          "rank": 1
         },
         "黄牌": {
           "value": 0,
-          "rank": 353
+          "rank": 4
         },
         "解围": {
-          "value": 2,
-          "rank": 420
+          "value": 0,
+          "rank": 16
         },
         "抢断": {
           "value": 0,
-          "rank": 460
+          "rank": 21
         },
         "两黄变红": {
           "value": 0,
-          "rank": 21
+          "rank": 1
         },
         "拦截": {
           "value": 0,
-          "rank": 433
+          "rank": 9
         },
         "有效阻挡": {
           "value": 1,
-          "rank": 310
+          "rank": 1
         },
         "越位": {
-          "value": 3,
-          "rank": 95
+          "value": 0,
+          "rank": 3
         },
         "被侵犯": {
-          "value": 3,
-          "rank": 372
+          "value": 1,
+          "rank": 7
         },
         "传球成功": {
-          "value": 10,
-          "rank": 503
+          "value": 9,
+          "rank": 25
         },
         "关键传球": {
-          "value": 0,
-          "rank": 441
+          "value": 2,
+          "rank": 2
         },
         "传中球": {
           "value": 0,
-          "rank": 414
+          "rank": 10
         },
         "传中球成功": {
           "value": 0,
-          "rank": 315
+          "rank": 5
         },
         "长传": {
           "value": 0,
-          "rank": 494
+          "rank": 19
         },
         "成功长传": {
           "value": 0,
-          "rank": 476
+          "rank": 18
         },
         "任意球": {
-          "value": 3,
-          "rank": 372
+          "value": 1,
+          "rank": 7
         },
         "任意球得分": {
           "value": 0,
-          "rank": 7
+          "rank": 1
         },
         "过人": {
-          "value": 1,
-          "rank": 426
+          "value": 2,
+          "rank": 5
         },
         "过人成功": {
           "value": 0,
-          "rank": 434
+          "rank": 10
         },
         "1对1拼抢": {
-          "value": 15,
-          "rank": 427
+          "value": 9,
+          "rank": 7
         },
         "1对1拼抢成功": {
-          "value": 6,
-          "rank": 436
+          "value": 1,
+          "rank": 20
         },
         "快攻": {
           "value": 0,
-          "rank": 212
+          "rank": 4
         },
         "快攻射门": {
           "value": 0,
-          "rank": 200
+          "rank": 4
         },
         "快攻进球": {
           "value": 0,
-          "rank": 63
+          "rank": 1
         },
         "击中门框": {
-          "value": 0,
-          "rank": 132
+          "value": 1,
+          "rank": 1
         },
         "丢失球权": {
-          "value": 19,
-          "rank": 440
+          "value": 9,
+          "rank": 14
         },
         "传球被断": {
-          "value": 3,
-          "rank": 321
+          "value": 2,
+          "rank": 4
         }
       }
     },
@@ -114076,119 +113917,119 @@
       "stats": {
         "上场场次": {
           "value": 1,
-          "rank": 1899
+          "rank": 2097
         },
         "首发": {
           "value": 1,
-          "rank": 1283
+          "rank": 1414
         },
         "上场时间": {
           "value": 90,
-          "rank": 1513
+          "rank": 1689
         },
         "场均上场时间": {
           "value": 90,
-          "rank": 189
+          "rank": 196
         },
         "进球": {
           "value": 0,
-          "rank": 405
+          "rank": 448
         },
         "场均进球": {
           "value": 0,
-          "rank": 405
+          "rank": 448
         },
         "助攻": {
           "value": 0,
-          "rank": 292
+          "rank": 328
         },
         "场均助攻": {
           "value": 0,
-          "rank": 292
+          "rank": 328
         },
         "点球": {
           "value": 0,
-          "rank": 38
+          "rank": 42
         },
         "射门": {
           "value": 0,
-          "rank": 394
+          "rank": 447
         },
         "射正": {
           "value": 0,
-          "rank": 220
+          "rank": 267
         },
         "传球": {
           "value": 0,
-          "rank": 663
+          "rank": 705
         },
         "犯规": {
           "value": 0,
-          "rank": 423
+          "rank": 491
         },
         "红牌": {
           "value": 0,
-          "rank": 34
+          "rank": 36
         },
         "黄牌": {
           "value": 0,
-          "rank": 646
+          "rank": 711
         },
         "解围": {
           "value": 0,
-          "rank": 444
+          "rank": 494
         },
         "抢断": {
           "value": 0,
-          "rank": 439
+          "rank": 499
         },
         "两黄变红": {
           "value": 0,
-          "rank": 11
+          "rank": 13
         },
         "拦截": {
           "value": 0,
-          "rank": 343
+          "rank": 386
         },
         "有效阻挡": {
           "value": 0,
-          "rank": 185
+          "rank": 227
         },
         "越位": {
           "value": 0,
-          "rank": 89
+          "rank": 101
         },
         "被侵犯": {
           "value": 0,
-          "rank": 417
+          "rank": 469
         },
         "传球成功": {
           "value": 0,
-          "rank": 659
+          "rank": 701
         },
         "关键传球": {
           "value": 0,
-          "rank": 357
+          "rank": 413
         },
         "传中球": {
           "value": 0,
-          "rank": 334
+          "rank": 370
         },
         "传中球成功": {
           "value": 0,
-          "rank": 185
+          "rank": 215
         },
         "长传": {
           "value": 0,
-          "rank": 538
+          "rank": 589
         },
         "成功长传": {
           "value": 0,
-          "rank": 459
+          "rank": 519
         },
         "任意球": {
           "value": 0,
-          "rank": 417
+          "rank": 469
         },
         "任意球得分": {
           "value": 0,
@@ -114196,63 +114037,63 @@
         },
         "过人": {
           "value": 0,
-          "rank": 389
+          "rank": 443
         },
         "过人成功": {
           "value": 0,
-          "rank": 267
+          "rank": 313
         },
         "1对1拼抢": {
           "value": 0,
-          "rank": 627
+          "rank": 675
         },
         "1对1拼抢成功": {
           "value": 0,
-          "rank": 596
+          "rank": 646
         },
         "快攻": {
           "value": 0,
-          "rank": 58
+          "rank": 78
         },
         "快攻射门": {
           "value": 0,
-          "rank": 52
+          "rank": 71
         },
         "快攻进球": {
           "value": 0,
-          "rank": 9
+          "rank": 14
         },
         "击中门框": {
           "value": 0,
-          "rank": 28
+          "rank": 33
         },
         "丢失球权": {
           "value": 0,
-          "rank": 651
+          "rank": 693
         },
         "传球被断": {
           "value": 0,
-          "rank": 299
+          "rank": 348
         },
         "扑救": {
           "value": 0,
-          "rank": 42
+          "rank": 45
         },
         "拳击球": {
           "value": 0,
-          "rank": 25
+          "rank": 27
         },
         "守门员出击": {
           "value": 0,
-          "rank": 28
+          "rank": 33
         },
         "守门员出击成功": {
           "value": 0,
-          "rank": 27
+          "rank": 32
         },
         "高空出击": {
           "value": 0,
-          "rank": 23
+          "rank": 27
         }
       }
     },
@@ -191088,7 +190929,7 @@
         },
         "抢断": {
           "value": 11,
-          "rank": 147
+          "rank": 148
         },
         "两黄变红": {
           "value": 0,
@@ -191132,7 +190973,7 @@
         },
         "成功长传": {
           "value": 14,
-          "rank": 130
+          "rank": 129
         },
         "任意球": {
           "value": 57,
@@ -191144,7 +190985,7 @@
         },
         "过人": {
           "value": 20,
-          "rank": 53
+          "rank": 54
         },
         "过人成功": {
           "value": 8,
@@ -195632,164 +195473,164 @@
       "enName": "Nobel Mendy",
       "stats": {
         "上场场次": {
-          "value": 24,
-          "rank": 268
+          "value": 3,
+          "rank": 633
         },
         "首发": {
-          "value": 22,
-          "rank": 158
+          "value": 0,
+          "rank": 780
         },
         "上场时间": {
-          "value": 1804,
-          "rank": 185
+          "value": 38,
+          "rank": 813
         },
         "场均上场时间": {
-          "value": 75.2,
-          "rank": 150
+          "value": 12.7,
+          "rank": 838
         },
         "进球": {
-          "value": 2,
-          "rank": 113
+          "value": 0,
+          "rank": 231
         },
         "场均进球": {
-          "value": 0.1,
-          "rank": 90
+          "value": 0,
+          "rank": 231
         },
         "助攻": {
           "value": 0,
-          "rank": 282
+          "rank": 200
         },
         "场均助攻": {
           "value": 0,
-          "rank": 209
+          "rank": 200
         },
         "点球": {
           "value": 0,
-          "rank": 51
-        },
-        "射门": {
-          "value": 11,
-          "rank": 264
-        },
-        "射正": {
-          "value": 3,
-          "rank": 249
-        },
-        "传球": {
-          "value": 963,
-          "rank": 130
-        },
-        "犯规": {
-          "value": 32,
-          "rank": 87
-        },
-        "红牌": {
-          "value": 2,
-          "rank": 2
-        },
-        "黄牌": {
-          "value": 9,
-          "rank": 16
-        },
-        "解围": {
-          "value": 155,
           "rank": 17
         },
+        "射门": {
+          "value": 0,
+          "rank": 652
+        },
+        "射正": {
+          "value": 0,
+          "rank": 449
+        },
+        "传球": {
+          "value": 30,
+          "rank": 725
+        },
+        "犯规": {
+          "value": 2,
+          "rank": 522
+        },
+        "红牌": {
+          "value": 0,
+          "rank": 29
+        },
+        "黄牌": {
+          "value": 1,
+          "rank": 195
+        },
+        "解围": {
+          "value": 4,
+          "rank": 416
+        },
         "抢断": {
-          "value": 27,
-          "rank": 192
+          "value": 0,
+          "rank": 735
         },
         "两黄变红": {
-          "value": 1,
-          "rank": 1
+          "value": 0,
+          "rank": 12
         },
         "拦截": {
-          "value": 21,
-          "rank": 105
+          "value": 0,
+          "rank": 633
         },
         "有效阻挡": {
-          "value": 1,
-          "rank": 338
+          "value": 0,
+          "rank": 433
         },
         "越位": {
-          "value": 1,
-          "rank": 219
+          "value": 0,
+          "rank": 268
         },
         "被侵犯": {
-          "value": 12,
-          "rank": 257
+          "value": 0,
+          "rank": 719
         },
         "传球成功": {
-          "value": 826,
-          "rank": 115
+          "value": 24,
+          "rank": 714
         },
         "关键传球": {
-          "value": 3,
-          "rank": 359
+          "value": 0,
+          "rank": 644
         },
         "传中球": {
-          "value": 5,
-          "rank": 317
+          "value": 0,
+          "rank": 601
         },
         "传中球成功": {
           "value": 0,
-          "rank": 363
+          "rank": 402
         },
         "长传": {
-          "value": 136,
-          "rank": 71
+          "value": 1,
+          "rank": 716
         },
         "成功长传": {
-          "value": 53,
-          "rank": 96
+          "value": 0,
+          "rank": 712
         },
         "任意球": {
-          "value": 12,
-          "rank": 257
+          "value": 0,
+          "rank": 716
         },
         "任意球得分": {
           "value": 0,
-          "rank": 11
+          "rank": 7
         },
         "过人": {
-          "value": 4,
-          "rank": 381
+          "value": 0,
+          "rank": 701
         },
         "过人成功": {
-          "value": 3,
-          "rank": 340
+          "value": 0,
+          "rank": 603
         },
         "1对1拼抢": {
-          "value": 141,
-          "rank": 240
+          "value": 10,
+          "rank": 657
         },
         "1对1拼抢成功": {
-          "value": 73,
-          "rank": 226
+          "value": 6,
+          "rank": 610
         },
         "快攻": {
           "value": 0,
-          "rank": 233
+          "rank": 215
         },
         "快攻射门": {
           "value": 0,
-          "rank": 217
+          "rank": 195
         },
         "快攻进球": {
           "value": 0,
-          "rank": 74
+          "rank": 41
         },
         "击中门框": {
           "value": 0,
-          "rank": 154
+          "rank": 95
         },
         "丢失球权": {
-          "value": 154,
-          "rank": 267
+          "value": 6,
+          "rank": 795
         },
         "传球被断": {
-          "value": 3,
-          "rank": 362
+          "value": 0,
+          "rank": 629
         }
       }
     },
