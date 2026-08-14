@@ -5,3 +5,6 @@ node_modules/
 .DS_Store
 
 # 注意：players_raw.json / players_stat.js / meta.json 都是需要被 CI 提交的数据，不要忽略
+
+# 屏蔽嵌套的旧 clone 残留（避免误提交）
+gosoccer/

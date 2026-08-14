@@ -29,12 +29,18 @@ jobs:
       - name: 爬取最新 stat 数据
         run: node ci-crawl.js
 
+      # 从整包切出两个联赛分片，供前端 CDN 按联赛加载（首次只拉当前联赛 ≈0.9MB）
+      - name: 切分联赛分片
+        run: node split_stat.js
+
       - name: 提交并推送
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # players_stat.js：每日重写的最新统计
+          # players_stat.js：每日重写的最新统计（整包，兜底源）
           git add players_stat.js
+          # players_stat_pl.js / players_stat_ll.js：按联赛切分的分片，前端 CDN 优先拉
+          git add players_stat_pl.js players_stat_ll.js
           # players_raw.json：缓存抓取进度（成功的新数据 / 失败标记）
           git add players_raw.json
           # meta.json：本次运行结果记录
